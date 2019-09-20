@@ -38,7 +38,7 @@ const Home = () => {
     }, [])
 
     return (
-        <Layout title='Home' description='Página principal' classname='container'>
+        <Layout title='Home' description='Página principal (proyecto MERN Stack - desarrollado por Jaime Díaz.)' classname='container'>
             <Search />
             <h2 className="mb-4">Best Seller</h2>
             <div className="row">
@@ -58,7 +58,7 @@ const Home = () => {
                     </div>                    
                 ))}
             </div>
-        </Layout>                    
+        </Layout>
     );
 }
 
