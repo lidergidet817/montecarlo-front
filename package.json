@@ -8,7 +8,7 @@
     "braintree-web-drop-in-react": "^1.0.10",
     "dotenv": "^8.1.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.8.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
